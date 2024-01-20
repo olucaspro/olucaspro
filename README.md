@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @olucaspro
-- 👀 I’m interested in start coding
-- 🌱 I’m currently learning nothing, but i will start python
-- 💞️ I’m looking to collaborate on apps & sites 
-- 📫 How to reach me projoblucas@gmail.com
+@olucaspro  
+23y
+Curious about coding
+Learning frot-end (Just the really really basics)
 
 <!---
 olucaspro/olucaspro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
